@@ -1,4 +1,8 @@
 
+html, body{
+	height: 100%;
+}
+
 .landing-background {
 	height: 100%;
 	background-attachment: fixed;
